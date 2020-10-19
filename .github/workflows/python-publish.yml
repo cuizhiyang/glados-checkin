@@ -3,7 +3,7 @@ name: glados-checkin
 on:
   
   schedule:
-    - cron:  45 09 * * * 
+    - cron:  45 00 * * * 
 
 jobs:
   build:
